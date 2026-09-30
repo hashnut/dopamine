@@ -1,0 +1,46 @@
+Bundled license information:
+
+lucide/dist/esm/defaultAttributes.mjs:
+lucide/dist/esm/createElement.mjs:
+lucide/dist/esm/icons/arrow-left.mjs:
+lucide/dist/esm/icons/arrow-up-right.mjs:
+lucide/dist/esm/icons/bookmark.mjs:
+lucide/dist/esm/icons/check.mjs:
+lucide/dist/esm/icons/compass.mjs:
+lucide/dist/esm/icons/external-link.mjs:
+lucide/dist/esm/icons/factory.mjs:
+lucide/dist/esm/icons/ghost.mjs:
+lucide/dist/esm/icons/globe.mjs:
+lucide/dist/esm/icons/info.mjs:
+lucide/dist/esm/icons/list.mjs:
+lucide/dist/esm/icons/locate-fixed.mjs:
+lucide/dist/esm/icons/map-pin.mjs:
+lucide/dist/esm/icons/map.mjs:
+lucide/dist/esm/icons/maximize.mjs:
+lucide/dist/esm/icons/menu.mjs:
+lucide/dist/esm/icons/moon.mjs:
+lucide/dist/esm/icons/mountain.mjs:
+lucide/dist/esm/icons/navigation.mjs:
+lucide/dist/esm/icons/plus.mjs:
+lucide/dist/esm/icons/roller-coaster.mjs:
+lucide/dist/esm/icons/search.mjs:
+lucide/dist/esm/icons/share-2.mjs:
+lucide/dist/esm/icons/shuffle.mjs:
+lucide/dist/esm/icons/sliders-horizontal.mjs:
+lucide/dist/esm/icons/star.mjs:
+lucide/dist/esm/icons/sun.mjs:
+lucide/dist/esm/icons/x.mjs:
+lucide/dist/esm/lucide.mjs:
+  /**
+   * @license lucide v1.49.0 - ISC
+   *
+   * This source code is licensed under the ISC license.
+   * See the LICENSE file in the root directory of this source tree.
+   */
+
+maplibre-gl/dist/maplibre-gl-shared.mjs:
+maplibre-gl/dist/maplibre-gl.mjs:
+  /**
+  * MapLibre GL JS
+  * @license 3-Clause BSD. Full text of license: https://github.com/maplibre/maplibre-gl-js/blob/v6.11.2/LICENSE.txt
+  */

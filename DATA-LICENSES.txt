@@ -1,0 +1,25 @@
+Dopamine data and media credits
+
+public/data/inventory.json is a filtered, named attraction inventory derived
+from OpenStreetMap. Copyright OpenStreetMap contributors, licensed under
+the Open Database License (ODbL) 1.0. Source record links, snapshot timestamp,
+query description, and licensing URL are included in the downloadable data.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+
+Coarse country labels and fallback country polygons: Natural Earth,
+public domain. These are visualization boundaries, not legal determinations.
+https://www.naturalearthdata.com/about/terms-of-use/
+
+Editorial descriptions are original summaries with place-specific references.
+Historical and operational information is not a real-time availability feed.
+Any OSM coordinate references are identified in the place source links.
+
+Place photographs retain their individual Wikimedia Commons licenses.
+Each photograph's author, original file URL, license URL, and caption appear
+in public/data/places.json and in the relevant place detail on the website.
+Images were resized and converted to JPEG. They are not generically licensed.
+
+MapLibre GL JS: BSD-3-Clause. See assets/MAPLIBRE-LICENSE.txt.
+Lucide icons: ISC License. See assets/LUCIDE-LICENSE.txt.
+OpenFreeMap map tiles: credits are displayed in the map attribution control.
